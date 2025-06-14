@@ -1,6 +1,6 @@
 # 🧠 100 Days of GPU Programming
 
-Inspired by the 100-Day GPU Programming challenge by Hkproj on x , this repository tracks daily progress as I explore CUDA, AI kernels, distributed training, and deployment.
+Inspired by the 100-Day GPU Programming challenge by Hkproj on X , this repository tracks daily progress as I explore CUDA, AI kernels, distributed training, and deployment.
 
 ## 📅 Progress Tracker
 
